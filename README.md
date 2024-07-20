@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phurin</h1>
 <h3 align="center">Aspiring full stack developer from Thailand</h3>
 
-- 🌱 I’m currently learning **Angular.js, Tailwind CSS, Bootstrap, Spring Boot, Kotlin, Swift, MySQL, PostgreSQL, MongoDB, Redis, and more!**
+- 🌱 I’m currently learning **Angular, Vue, Bootstrap, Tailwind CSS, Kotlin, Swift, Spring Boot, Django, Flask, Gin, PostgreSQL, MySQL, MongoDB, Redis, AWS, GCP, Docker, CI/CD and more!**
 
 - 📫 How to reach me **phurin.nrt@gmail.com**
 

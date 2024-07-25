@@ -35,8 +35,12 @@
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
     </a>
+    <br>
     <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
+    </a>
+    <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     </a>
     <br>
     <a href="https://nodejs.org" target="_blank" rel="noopener noreferrer">

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phurin</h1>
 <h3 align="center">Aspiring full stack developer from Thailand</h3>
 
-- 🌱 I’m currently learning **Angular, Vue, Bootstrap, Kotlin, Spring Boot, Django, Flask, Gin, PostgreSQL, MySQL, MongoDB, Redis, AWS, GCP, Docker, CI/CD and more!**
+- 🌱 I’m currently learning **Angular, Vue, Bootstrap, Kotlin, Spring Boot, Django, Flask, Gin, PostgreSQL, MySQL, AWS, GCP, Docker, CI/CD and more!**
 
 - 📫 How to reach me **phurin.nrt@gmail.com**
 
@@ -68,6 +68,12 @@
     <br>
     <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+    </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+    </a>
+    <a href="https://redis.io/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
     </a>
     <br>
     <a href="https://www.selenium.dev" target="_blank" rel="noopener noreferrer">

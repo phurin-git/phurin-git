@@ -23,7 +23,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <div align=center>
-    <a href="https://www.arduino.cc/" target="_blank" rel="noopener noreferrer">
+    <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     </a>
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">

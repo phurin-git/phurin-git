@@ -39,6 +39,9 @@
     <a href="https://reactjs.org/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
     </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white">
+    </a>
     <a href="https://tailwindcss.com/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
     </a>
